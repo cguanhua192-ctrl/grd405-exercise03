@@ -1,0 +1,6 @@
+Image: Blue Marble (2002)
+Credit: NASA Goddard Space Flight Center. Image by Reto Stockli; enhancements by Robert Simmon.
+Source: https://commons.wikimedia.org/wiki/File:Blue_Marble_2002.png
+License: Public domain (NASA / PD-USGov), as identified on the source page.
+Changes: Resized to 1200 x 600 pixels and converted from PNG to JPEG.
+Local filename: site-image.jpg
